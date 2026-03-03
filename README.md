@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tomás Colman! 
 
-<!--
-**tomascolman96/tomascolman96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior QA Lead & Software Builder
+With over **8 years of experience** in the QA industry, I've evolved from manual testing to leading quality strategies for major financial institutions like BBVA, Galicia, and Diners Bank. 
 
-Here are some ideas to get you started:
+I consider myself a builder: I don't just find bugs, I build the processes and automation frameworks (JS/TS) to prevent them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Tech Stack
+- **Testing:** Manual & Automation (Playwright, Selenium, Power Automate).
+- **Languages:** JavaScript & TypeScript (Currently mastering Acis Framework).
+- **Frontend:** Web Development (UTN Certified) & currently learning React.
+- **Tools:** Jira, Xray, Postman, Salesforce (Associate Certified).
+
+### Current Focus
+- Scaling automation frameworks at Accenture.
+- Completing my FullStack Web Development path at UTN.
+- Improving software quality through a "Builder" mindset.
+
+---
+ **To connect with me:** tomas.colman96@gmail.com
+
